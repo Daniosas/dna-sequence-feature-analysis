@@ -45,7 +45,7 @@ dna-sequence-feature-analysis/
 ├── main.py
 ├── requirements.txt
 ├── sample_sequences.fasta
-├── dna_sequence_analysis.csv
+├── dna_sequence_analysis_results.csv
 ├── gc_content_visualization.png
 └── README.md
 ```
